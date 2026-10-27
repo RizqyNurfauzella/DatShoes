@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RizqyNurfauzella/Assessment3Mobpro/raw/master/app/src/main/res/drawable-nodpi/logo.png" width="150" alt="DatShoes Logo" />
+  <img src="app/src/main/res/drawable-nodpi/logo.png" width="150" alt="DatShoes Logo" />
 </p>
 
 <h1 align="center"><b>👟 DatShoes!</b></h1>
@@ -22,7 +22,8 @@
 
 ### 🧪 Teknologi
 - 💻 Kotlin (Native Android)
-- 📊 RecyclerView, Glide
+- 🎨 Jetpack Compose & Material 3 untuk antarmuka
+- 🖼️ Coil untuk pemuatan gambar
 - 🌐 Retrofit untuk komunikasi API
 - 📁 MVVM Architecture
 
